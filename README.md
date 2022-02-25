@@ -4,7 +4,7 @@
 
 ### Run in a Local Environment
 
-1. Clone git repo into local folder
+1. Clone git repo into directory
 
 2. cd into folder<br/>
 `cd tic-tac-toe`
