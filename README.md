@@ -6,11 +6,11 @@
 
 1. Clone git repo into local folder
 
-2. cd into folder
+2. cd into folder<br/>
 `cd tic-tac-toe`
 
-3. Install Node Packages
+3. Install Node Packages<br/>
 `npm install`
 
-4. run application
+4. run application<br/>
 `npm start`
